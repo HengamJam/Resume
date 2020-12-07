@@ -57,6 +57,48 @@ Bachelor of Science, Environmental Sciences
 
 
 
+## **Skills** 
+**Languages:** C, C++, Java,  PHP, Visual Basic, Python 
+
+**Scripting:** Javascript, Shell script
+
+**Database:** Relational(MySQL, PostgreSQL), NoSQL(DynamoDB)
+
+**Build/Deploy Tools:** Maven, Ant, Jenkins
+
+**Source control:** Git
+
+**OS:** Linux, Unix, Windows 
+
+**Project Management:** Agile methodology, Scrum  
+
+**Frameworks:** CodeIgniter, Java EE, Spring , Hibernate, Falcon, NodeJS
+
+**Web:** HTML, CSS, jQuery, AJAX, Bootstrap, VueJS
+
+**AWS:** S3, SNS, Lambda, SQS, Elastic Beanstalk, IAM, DynamoDB, Redshift, Polly
+
+**IDE:** Eclipse, NetBeans, IntelliJ, PyCharm, DreamWeaver, Sublime, Vim.
+
+## **Experience** 
+#### <span style="color:blue">Junior Software Engineer, Kernel Labs (Comotion workspace at Univ. of Washington), October 2017-Present </span><br>
+Full stack software development using Python, PostgreSQL, NodeJS, vuejs, react native and Lambda for Alexa skills development. 
+#### <span style="color:blue">Assistant Lecturer, Acme Engineering College (Nepal), Jan 2015 - Feb 2016 </span><br>
+Instructed two classes of 40 students each, helped them in the lab and graded their assignments. Courses for instruction were C, C++, Computer Organization and Design.<br>
+#### <span style="color:blue">Assistant Lecturer, Kantipur City College(Nepal), Mar 2015 - Sep 2015 </span><br>
+Instructed a class of 30 students, helped them in the lab and graded their assignments on the course Data Structures and Algorithms.<br>
+#### <span style="color:blue">Software Engineer , Bajra Technologies (Nepal), Sep 2014 - Jan 2015 </span><br>
+- Worked in a team of four to develop a MIS for MetLife Insurance company, Nepal. I specifically developed an administrative panel for insurance agents to keep customer records, and to keep track of their commissions with the agency.<br>
+- Developed and deployed a booking system on the hotel management system for TrekOtel, Pokhara, Nepal.<br>
+- Developed both frontend and backend for Club Himalaya hotel website using wordpress. [ (http://www.clubhimalaya.com/) ]() 
+#### <span style="color:blue">Ecommerce System (final year project), Acme Engineering College(Nepal), 2014 </span><br>
+Developed a web platform where multiple sellers can sell and multiple buyers can buy those products after registering in the system. [(https://github.com/dixya/online-shopping-management-system)]() <br>
+#### <span style="color:blue">Content management System (mini project), Acme Engineering College(Nepal), 2013 </span><br>
+Developed a simple user interface for handling database content. This system can be used to insert, update, edit and delete data from the database without directly accessing database. It was build using html, css, php, mysql and javascript. [ (https://github.com/dixya/ContentManagementSystem )]() <br>
+## **Education**
+**University of Washington, 2016-2017** : Certificate in Java Programming
+
+**Acme Engineering College, 2009-2014** : Bachelor in Computer Engineering
 
 
 
