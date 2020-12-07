@@ -19,7 +19,7 @@ Certificate on market research and main concepts of marketing
 **Azad Tehran University**, 2002 - 2005  
 _Bachelor of Science, in German language_  
 
-## **Skills** 
+## **Skills:** 
 User Experience Design,
 User Interface Design,
 Information Architecture,
@@ -31,7 +31,7 @@ Usability testing,
 Motion Design,
 Print design / Branding
 
-## **Tools** 
+## **Tools:** 
 Sketch,
 Figma,
 XD,
