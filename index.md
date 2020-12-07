@@ -45,53 +45,26 @@ HTML + CSS
 Keynote
 Powerpoint
 
-**Scripting:** Javascript, Shell script
-
-**Database:** Relational(MySQL, PostgreSQL), NoSQL(DynamoDB)
-
-**Build/Deploy Tools:** Maven, Ant, Jenkins
-
-**Source control:** Git
-
-**OS:** Linux, Unix, Windows 
-
-**Project Management:** Agile methodology, Scrum  
-
-**Frameworks:** CodeIgniter, Java EE, Spring , Hibernate, Falcon, NodeJS
-
-**Web:** HTML, CSS, jQuery, AJAX, Bootstrap, VueJS
-
-**AWS:** S3, SNS, Lambda, SQS, Elastic Beanstalk, IAM, DynamoDB, Redshift, Polly
-
-**IDE:** Eclipse, NetBeans, IntelliJ, PyCharm, DreamWeaver, Sublime, Vim
-
-## Technologies:
-
-
-**Proficient:** JavaScript, Node.js, HTML, CSS, React, Redux, Express, Sequelize, Semantic UI, Git, React- Redux, React-Native, PostgreSQL, Firebase  
-**Knowledgeable:** Mocha, Chai, Bootstrap, JQuery, OAuth
-
-## Projects:
-
-**DevBook:** Senior Capstone - [Github repo](https://github.com/devbook-live/DevBook)
-
-- Collaborative web-based computer programming sandbox environment that processes multiple users’ inputs and returns results to the user(s).
-- Led the user authentication and Firebase integration, and heavily involved in React UI.
-- Tech stack: React, Firebase, Docker, JavaScript, Node.js
-
-**Mr. Mixologist:** Stackathon Project - [Github repo](https://github.com/MrMixologist)
-
-- A mobile app which allows users to input ingredients and provides cocktail recipes based on ingredients at hand through database communication.
-- Built a PostgreSQL database involving a complicated associative table to join the data tables.
-- Developed a React-Native front-end UI that accessed the database and aesthetically rendered data.
-- Tech stack: React Native, Express, JavaScript, React-Redux, Node.js, PostgreSQL, Sequelize
 
 ## Experience:
 
 **KOHAN Creative**  
 _UI/UX designer_, June 2014- December 2017
 
-- Designed machine layouts for sales presentations using AutoCAD 2015 based on client specifications, continuously modifying the layouts to achieve client approval.
+- Working in a fast-paced environment focusing on designing interfaces for internal andexternal websites.
+- Leading the design of a design system to create consistent components for developers
+and designers across KOHAN Creative’s product suite.
+- Collaborating with developers, designers, and product managers to identify user and
+business needs, ensure great user experience and coherent visual identity, and build the
+final product.
+- Creating style guides, mid to high fidelity mockups, clickable prototypes.
+- Conducting user tests and using the feedback to iterate on designs.
+- Creating all aspects of interaction and visual design for the team and company’s
+events, including event signages, presentations, icon design.
+- Created a product flow, mockups, prototype and custom design responsive website for
+the KOHAN Creative.
+
+- Working in a fast-paced environment focusing on designing interfaces for internal andexternal websites.
 - Communicated and worked cross-functionally to meet deliverables in a timely manner.
 - Created financial analysis reporting for upper management (President and Controller).
 
