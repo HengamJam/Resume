@@ -67,7 +67,7 @@ _UI/UX designer_, April 2016- Present
 - Incorporated user feedback into interactions and communicated them with clients.
 - Developed a range of materials from low fidelity prototypes to high fidelity mockups.
 - Collaborated with stakeholders to identify user and business requirements.
-- Created a product flow, mockup, prototype and custom design responsive website forthe KOHAN.
+- Created a product flow, mockup, prototype and custom design responsive website for the KOHAN.
 - Created all aspects of visual design for small businesses including logos, businesscards, brochures.
 
 **Freelance - Volunteer**  
