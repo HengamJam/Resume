@@ -2,8 +2,10 @@
 ## Hengam Jam
 
 hengam.hjam@gmail.com  
-(415)766-1412<\br>
-San Francisco, CA 
+(415)766-1412  
+
+San Francisco, CA  
+
 [Portfolio](http://hengamjam.com/) | [LinkedIn](https://www.linkedin.com/in/hengam-jam-b7399a86/)
 
 ## Education:
