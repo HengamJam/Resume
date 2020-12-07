@@ -3,8 +3,45 @@
 
 hengam.hjam@gmail.com  
 (415)766-1412 
-San Francisco, CA 
+_San Francisco, CA_ 
 [Portfolio](http://hengamjam.com/) | [LinkedIn](https://www.linkedin.com/in/hengam-jam-b7399a86/)
+
+## Education:
+
+**DesignLab**, September 2017 - August 2018  
+_UX Academy Bootcamp_
+
+**DePaul University**, 2016  
+_Kellstadt Graduate School of Business_  
+MS in Management
+
+**University of Michigan**, 2014  
+_College of Literature, Science, and the Arts_  
+Bachelor of Science, Environmental Sciences
+
+
+## **Skills** 
+**Languages:** C, C++, Java,  PHP, Visual Basic, Python 
+
+**Scripting:** Javascript, Shell script
+
+**Database:** Relational(MySQL, PostgreSQL), NoSQL(DynamoDB)
+
+**Build/Deploy Tools:** Maven, Ant, Jenkins
+
+**Source control:** Git
+
+**OS:** Linux, Unix, Windows 
+
+**Project Management:** Agile methodology, Scrum  
+
+**Frameworks:** CodeIgniter, Java EE, Spring , Hibernate, Falcon, NodeJS
+
+**Web:** HTML, CSS, jQuery, AJAX, Bootstrap, VueJS
+
+**AWS:** S3, SNS, Lambda, SQS, Elastic Beanstalk, IAM, DynamoDB, Redshift, Polly
+
+**IDE:** Eclipse, NetBeans, IntelliJ, PyCharm, DreamWeaver, Sublime, Vim
 
 ## Technologies:
 
