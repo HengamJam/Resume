@@ -67,6 +67,7 @@ Powerpoint
 
 ## Technologies:
 
+
 **Proficient:** JavaScript, Node.js, HTML, CSS, React, Redux, Express, Sequelize, Semantic UI, Git, React- Redux, React-Native, PostgreSQL, Firebase  
 **Knowledgeable:** Mocha, Chai, Bootstrap, JQuery, OAuth
 
