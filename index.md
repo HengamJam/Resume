@@ -2,7 +2,7 @@
 ## Hengam Jam
 
 hengam.hjam@gmail.com  
-**(415)766-1412** 
+(415)766-1412
 San Francisco, CA 
 [Portfolio](http://hengamjam.com/) | [LinkedIn](https://www.linkedin.com/in/hengam-jam-b7399a86/)
 
@@ -10,18 +10,40 @@ San Francisco, CA
 
 **DesignLab**, September 2017 - August 2018  
 _UX Academy Bootcamp_
+Certificate on user experience and user interface design
 
-**DePaul University**, 2016  
-_Kellstadt Graduate School of Business_  
-MS in Management
+**Industrial Management Institute**, 2006  
+_Marketing & Market Management_  
+Certificate on market research and main concepts of marketing
 
-**University of Michigan**, 2014  
-_College of Literature, Science, and the Arts_  
-Bachelor of Science, Environmental Sciences
-
+**Azad Tehran University**, 2002 - 2005  
+_Bachelor of Science, in German language_  
 
 ## **Skills** 
-**Languages:** C, C++, Java,  PHP, Visual Basic, Python 
+User Experience Design
+User Interface Design
+Information Architecture
+Interaction Design
+Storyboarding
+Wireframing
+Rapid Prototyping
+Usability testing
+Motion Design
+Print design / Branding
+
+## **Tools** 
+Sketch
+Figma
+XD
+Photoshop
+Illustrator
+InVision
+Marvel
+After Effects
+Principle
+HTML + CSS
+Keynote
+Powerpoint
 
 **Scripting:** Javascript, Shell script
 
