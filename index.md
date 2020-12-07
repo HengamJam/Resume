@@ -52,21 +52,13 @@ Powerpoint
 _UI/UX designer_, June 2014- December 2017
 
 - Working in a fast-paced environment focusing on designing interfaces for internal andexternal websites.
-- Leading the design of a design system to create consistent components for developers
-and designers across KOHAN Creative’s product suite.
-- Collaborating with developers, designers, and product managers to identify user and
-business needs, ensure great user experience and coherent visual identity, and build the
+- Leading the design of a design system to create consistent components for developersand designers across KOHAN Creative’s product suite.
+- Collaborating with developers, designers, and product managers to identify user andbusiness needs, ensure great user experience and coherent visual identity, and build the
 final product.
 - Creating style guides, mid to high fidelity mockups, clickable prototypes.
 - Conducting user tests and using the feedback to iterate on designs.
-- Creating all aspects of interaction and visual design for the team and company’s
-events, including event signages, presentations, icon design.
-- Created a product flow, mockups, prototype and custom design responsive website for
-the KOHAN Creative.
-
-- Working in a fast-paced environment focusing on designing interfaces for internal andexternal websites.
-- Communicated and worked cross-functionally to meet deliverables in a timely manner.
-- Created financial analysis reporting for upper management (President and Controller).
+- Creating all aspects of interaction and visual design for the team and company’sevents, including event signages, presentations, icon design.
+- Created a product flow, mockups, prototype and custom design responsive website forthe KOHAN Creative.
 
 _Administrative Assistant_, Summer 2012 & Summer 2013
 
