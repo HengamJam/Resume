@@ -61,7 +61,7 @@ final product.
 - Created a product flow, mockups, prototype and custom design responsive website forthe KOHAN Creative.
 
 **KOHAN**  
-_UI/UX designer_, JApril 2016- Present
+_UI/UX designer_, April 2016- Present
 
 - Designed interactive wireframes, prototypes and visual design materials for clients.
 - Incorporated user feedback into interactions and communicated them with clients.
