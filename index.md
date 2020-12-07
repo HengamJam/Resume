@@ -1,10 +1,10 @@
 
-## Connor Jessup
+## Hengam Jam
 
-jessupcn@gmail.com  
-(248) 660-6584  
-New York, NY  
-[Github](github.com/Jessupcn) | [LinkedIn](linkedin.com/in/connor-jessup/)
+hengam.hjam@gmail.com  
+(415)766-1412 
+San Francisco, CA 
+[Portfolio](http://hengamjam.com/) | [LinkedIn](https://www.linkedin.com/in/hengam-jam-b7399a86/)
 
 ## Technologies:
 
@@ -28,9 +28,8 @@ New York, NY
 
 ## Experience:
 
-**Jessup Engineering Inc.**  
-Rochester Hills, MI  
-_Operations Manager_, June 2014- December 2017
+**KOHAN Creative**  
+_UI/UX designer_, June 2014- December 2017
 
 - Designed machine layouts for sales presentations using AutoCAD 2015 based on client specifications, continuously modifying the layouts to achieve client approval.
 - Communicated and worked cross-functionally to meet deliverables in a timely manner.
@@ -55,11 +54,7 @@ MS in Management
 _College of Literature, Science, and the Arts_  
 Bachelor of Science, Environmental Sciences
 
-## Interests:
 
-- Running: 2016 Chicago Marathon Finisher
-- Sports
-- Traveling
 
 
 
