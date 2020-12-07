@@ -20,36 +20,36 @@ Certificate on market research and main concepts of marketing
 _Bachelor of Science, in German language_  
 
 ## **Skills** 
-User Experience Design
-User Interface Design
-Information Architecture
-Interaction Design
-Storyboarding
-Wireframing
-Rapid Prototyping
-Usability testing
-Motion Design
+User Experience Design,
+User Interface Design,
+Information Architecture,
+Interaction Design,
+Storyboarding,
+Wireframing,
+Rapid Prototyping,
+Usability testing,
+Motion Design,
 Print design / Branding
 
 ## **Tools** 
-Sketch
-Figma
-XD
-Photoshop
-Illustrator
-InVision
-Marvel
-After Effects
-Principle
-HTML + CSS
-Keynote
+Sketch,
+Figma,
+XD,
+Photoshop,
+Illustrator,
+InVision,
+Marvel,
+After Effects,
+Principle,
+HTML + CSS,
+Keynote,
 Powerpoint
 
 
 ## Experience:
 
 **KOHAN Creative**  
-_UI/UX designer_, June 2014- December 2017
+_UI/UX designer_, Janaury 2017- Present
 
 - Working in a fast-paced environment focusing on designing interfaces for internal andexternal websites.
 - Leading the design of a design system to create consistent components for developersand designers across KOHAN Creative’s product suite.
@@ -60,11 +60,39 @@ final product.
 - Creating all aspects of interaction and visual design for the team and company’sevents, including event signages, presentations, icon design.
 - Created a product flow, mockups, prototype and custom design responsive website forthe KOHAN Creative.
 
-_Administrative Assistant_, Summer 2012 & Summer 2013
+**KOHAN**  
+_UI/UX designer_, JApril 2016- Present
 
-- Calculated current machine proposal pricing for prospective customers by determining individual machine component/labor costs.
-- Dynamically updated Excel worksheets to reflect current machine costs.
-- Organized and updated employee payroll/insurance files.
+- Designed interactive wireframes, prototypes and visual design materials for clients.
+- Incorporated user feedback into interactions and communicated them with clients.
+- Developed a range of materials from low fidelity prototypes to high fidelity mockups.
+- Collaborated with stakeholders to identify user and business requirements.
+- Created a product flow, mockup, prototype and custom design responsive website forthe KOHAN.
+- Created all aspects of visual design for small businesses including logos, businesscards, brochures.
+
+**Freelance - Volunteer**  
+_User Interface Designer_, December 2013 - April 2016
+
+- Created and managed websites and branding for small, mid-sized businesses ,and start-ups.
+- Was responsible for the UX design process, including user research, information architecture, wireframing, and prototyping.
+- Built out graphic design services included logo, business card, letterhead.
+- Offered SEO consultation, design feedback, social media marketing.
+
+**Roche (DarmanYab Darou)**  
+_Product Marketing Specialist_, December 2008 - January 2011
+
+- Was responsible for Roche Diabetes Care products road-mapping and marketing, focusing on developing product positioning.
+- Was in charge of market research for target markets or customers.
+- Identified and analyzed market needs, market size and competition.
+
+
+
+
+
+
+
+
+
 
 ## Education:
 
