@@ -17,7 +17,8 @@ _Marketing & Market Management_
 Certificate on market research and main concepts of marketing
 
 **Azad Tehran University**, 2002 - 2005  
-_Bachelor of Science, in German language_  
+_Bachelor of Science_   
+German language 
 
 ## **Skills:** 
 User Experience Design,
