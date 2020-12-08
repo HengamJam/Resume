@@ -49,7 +49,7 @@ Powerpoint
 ## Experience:
 
 **KOHAN Creative**  
-_UI/UX designer_, Janaury 2017- Present
+_UI/UX designer_, September 2018- Present
 
 - Working in a fast-paced environment focusing on designing interfaces for internal andexternal websites.
 - Leading the design of a design system to create consistent components for developersand designers across KOHAN Creative’s product suite.
@@ -61,7 +61,7 @@ final product.
 - Created a product flow, mockups, prototype and custom design responsive website forthe KOHAN Creative.
 
 **KOHAN**  
-_UI/UX designer_, April 2016- Present
+_Creative Director/ designer_, April 2016- Present
 
 - Designed interactive wireframes, prototypes and visual design materials for clients.
 - Incorporated user feedback into interactions and communicated them with clients.
@@ -71,7 +71,7 @@ _UI/UX designer_, April 2016- Present
 - Created all aspects of visual design for small businesses including logos, businesscards, brochures.
 
 **Freelance - Volunteer**  
-_User Interface Designer_, December 2013 - April 2016
+_User Interface Designer_, December 2014 - April 2016
 
 - Created and managed websites and branding for small, mid-sized businesses ,and start-ups.
 - Was responsible for the UX design process, including user research, information architecture, wireframing, and prototyping.
