@@ -9,7 +9,7 @@ hengam.hjam@gmail.com
 ## Education:
 
 **DesignLab**, September 2017 - August 2018  
-_UX Academy Bootcamp_
+_UX Academy Bootcamp_  
 Certificate on user experience and user interface design
 
 **Industrial Management Institute**, 2006  
