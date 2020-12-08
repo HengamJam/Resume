@@ -59,7 +59,7 @@ final product.
 - Creating style guides, mid to high fidelity mockups, clickable prototypes.
 - Conducting user tests and using the feedback to iterate on designs.
 - Creating all aspects of interaction and visual design for the team and company’sevents, including event signages, presentations, icon design.
-- Created a product flow, mockups, prototype and custom design responsive website forthe KOHAN Creative.
+- Created a product flow, mockups, prototype and custom design responsive website for the KOHAN Creative.
 
 **KOHAN**  
 _Creative Director/ designer_, April 2016- Present
