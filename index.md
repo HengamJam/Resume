@@ -36,14 +36,14 @@ Print design / Branding
 Sketch,
 Figma,
 XD,
-Photoshop,
 Illustrator,
+Photoshop,
 InVision,
 Marvel,
 After Effects,
 Principle,
 HTML + CSS,
-WordPress,  
+WordPress,
 Keynote,
 Powerpoint
 
