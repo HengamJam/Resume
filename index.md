@@ -43,6 +43,7 @@ Marvel,
 After Effects,
 Principle,
 HTML + CSS,
+WordPress,  
 Keynote,
 Powerpoint
 
@@ -50,23 +51,23 @@ Powerpoint
 ## Experience:
 
 **KOHAN Creative**  
-_UI/UX designer_, September 2018- Present
+_UI/UX designer_, January 2019 - Present
 
-- Working in a fast-paced environment focusing on designing interfaces for internal andexternal websites.
-- Leading the design of a design system to create consistent components for developersand designers across KOHAN Creative’s product suite.
-- Collaborating with developers, designers, and product managers to identify user andbusiness needs, ensure great user experience and coherent visual identity, and build the
+- Working in a fast-paced environment focusing on designing interfaces for internal and external websites.
+- Working and maintaining the design system to create consistent components for developersand designers across KOHAN Creative’s product suite.
+- Collaborating with developers, designers, and product managers to identify user and business needs, ensure great user experience and coherent visual identity, and build the
 final product.
 - Creating style guides, mid to high fidelity mockups, clickable prototypes.
 - Conducting user tests and using the feedback to iterate on designs.
 - Creating all aspects of interaction and visual design for the team and company’sevents, including event signages, presentations, icon design.
 - Created a product flow, mockups, prototype and custom design responsive website for the KOHAN Creative.
+- Was responsible for the UX design process, including user research, information architecture, wireframing, and prototyping.
 
 **KOHAN**  
-_Creative Director/ designer_, April 2016- Present
+_Creative Director/ designer_, April 2016 - Present
 
-- Designed interactive wireframes, prototypes and visual design materials for clients.
+- Designed interactive wireframes, prototypes and graphic design materials for clients.
 - Incorporated user feedback into interactions and communicated them with clients.
-- Developed a range of materials from low fidelity prototypes to high fidelity mockups.
 - Collaborated with stakeholders to identify user and business requirements.
 - Created a product flow, mockup, prototype and custom design responsive website for the KOHAN.
 - Created all aspects of visual design for small businesses including logos, businesscards, brochures.
@@ -74,8 +75,7 @@ _Creative Director/ designer_, April 2016- Present
 **Freelance - Volunteer**  
 _User Interface Designer_, December 2014 - April 2016
 
-- Created and managed websites and branding for small, mid-sized businesses ,and start-ups.
-- Was responsible for the UX design process, including user research, information architecture, wireframing, and prototyping.
+- Created and managed wordpress websites and branding for small, mid-sized businesses ,and start-ups.
 - Built out graphic design services included logo, business card, letterhead.
 - Offered SEO consultation, design feedback, social media marketing.
 
